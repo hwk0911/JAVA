@@ -7,5 +7,5 @@
 ONE FOR ALL,  
 ALL FOR ONE  
 
-### 1. 자바의 데이터 타입 (Java Data Type)
-    cafecoder.tisotry.com/17
+### 1. 자바의 데이터 타입 (Java Data Type)  
+cafecoder.tisotry.com/17
