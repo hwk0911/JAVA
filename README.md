@@ -5,7 +5,7 @@
 기초를 탄탄히 하자는 마음으로 Java의 기본을 정리해본다.
 
 ONE FOR ALL,  
-ALL FOR ONE
+ALL FOR ONE  
 
 ### 1. 자바의 데이터 타입 (Java Data Type)
     cafecoder.tisotry.com/17
