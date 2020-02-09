@@ -7,5 +7,9 @@
 ONE FOR ALL,  
 ALL FOR ONE  
 
+### 0. Java-Tutorials의 시작에 앞서
+https://cafecoder.tistory.com/entry/0-Java-Tutorals%EC%9D%98-%EC%8B%9C%EC%9E%91%EC%97%90-%EC%95%9E%EC%84%9C
+
 ### 1. 자바의 데이터 타입 (Java Data Type)  
-cafecoder.tisotry.com/17
+https://cafecoder.tistory.com/entry/Java-%EB%B3%80%EC%88%98%ED%98%95-Primitive-Object?category=890663
+
