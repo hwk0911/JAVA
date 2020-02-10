@@ -13,3 +13,4 @@ https://cafecoder.tistory.com/entry/0-Java-Tutorals%EC%9D%98-%EC%8B%9C%EC%9E%91%
 ### 1. 자바의 데이터 타입 (Java Data Type)  
 https://cafecoder.tistory.com/entry/Java-%EB%B3%80%EC%88%98%ED%98%95-Primitive-Object?category=890663
 
+### 1.5 자료형의 범위는 왜 음수가 더 넓을까? (byte : -128 ~ 127) - 1의 보수 개념까지 완료
