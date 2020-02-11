@@ -15,3 +15,6 @@ https://cafecoder.tistory.com/entry/Java-%EB%B3%80%EC%88%98%ED%98%95-Primitive-O
 
 ### 1.5 자료형의 범위는 왜 음수가 더 넓을까? (byte : -128 ~ 127)
 https://cafecoder.tistory.com/entry/15-%EC%9E%90%EB%A3%8C%ED%98%95%EC%9D%98-%EB%B2%94%EC%9C%84%EB%8A%94-%EC%99%9C-%EC%9D%8C%EC%88%98%EA%B0%80-%EB%8D%94-%EB%84%93%EC%9D%84%EA%B9%8C-byte-128-127
+
+### 2. 자바의 연산자 (최우선 연산자 부터 미완성)
+https://cafecoder.tistory.com/entry/2-Java-%EC%97%B0%EC%82%B0%EC%9E%90
