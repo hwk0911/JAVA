@@ -10,6 +10,6 @@
 
 이 카테고리에는 더 나은 개발자를 위한 내용을 포스팅하려 한다.   
 
-### 객체지향 개발의 5원칙 "SOLID" (객체 지향 설계)
-https://cafecoder.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9C%EB%B0%9C%EC%9D%98-5%EC%9B%90%EC%B9%99-SOLID-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84?category=894189
+### [객체지향 개발의 5원칙 "SOLID" (객체 지향 설계)](https://cafecoder.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9C%EB%B0%9C%EC%9D%98-5%EC%9B%90%EC%B9%99-SOLID-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84?category=894189)
 
+객체지향 5원칙 SOLID의 개념을 간단한 다이어그램 예시를 통해 설명한다.
