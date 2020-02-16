@@ -18,4 +18,4 @@ Java 데이터 타입의 음수 양수 범위가 다른 이유 (Signed, Unsigned
 
 ### 2. [자바의 연산자](https://cafecoder.tistory.com/entry/2-Java-%EC%97%B0%EC%82%B0%EC%9E%90)
 
-### 3. [조건문 (미완)](https://cafecoder.tistory.com/) 
+### 3. [조건문 (if문 까지 완성)](https://cafecoder.tistory.com/) 
