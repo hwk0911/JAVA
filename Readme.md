@@ -88,11 +88,11 @@ Java 데이터 타입의 음수 양수 범위가 다른 이유 (Signed, Unsigned
 제어문은 프로그래밍의 논리의 기본이라 생각한다. 모든 자료구조, 알고리즘에 반드시 포함된다.      
 많은 내용이 중요하지만, 특히 중요한 파트라 생각된다.
 
-### 3.1 [프로그래밍의 꽃 Java 제어문 part 1(조건문)](https://cafecoder.tistory.com/entry/3-%EC%A1%B0%EA%B1%B4%EB%AC%B8)
+## 3.1 [프로그래밍의 꽃 Java 제어문 part 1(조건문)](https://cafecoder.tistory.com/entry/3-%EC%A1%B0%EA%B1%B4%EB%AC%B8)
 ### 3.1.1 if
 ### 3.1.2 switch case
 
-### 3.2 [프로그래밍의 꽃 Java 제어문 Part 2 (반복문)](https://cafecoder.tistory.com/entry/3-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%BD%83-Java-%EC%A0%9C%EC%96%B4%EB%AC%B8-Part-2-%EB%B0%98%EB%B3%B5%EB%AC%B8)
+## 3.2 [프로그래밍의 꽃 Java 제어문 Part 2 (반복문)](https://cafecoder.tistory.com/entry/3-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%BD%83-Java-%EC%A0%9C%EC%96%B4%EB%AC%B8-Part-2-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 ### 3.2.1 for
 ### 3.2.2 for-each
 ### 3.2.2 + for-each lambda 
