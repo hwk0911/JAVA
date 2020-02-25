@@ -96,5 +96,7 @@ Java 데이터 타입의 음수 양수 범위가 다른 이유 (Signed, Unsigned
 ### 3.2.1 for
 ### 3.2.2 for-each
 ### 3.2.2 + for-each lambda 
-### 3.2.3 while (미완성)
-### 3.2.4 do-while (미완성)
+### 3.2.3 while
+### 3.2.4 do-while
+
+## 4 [객체지향 프로그래밍의 시작 "클래스" (Java 클래스)]
