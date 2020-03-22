@@ -144,7 +144,7 @@ Java 데이터 타입의 음수 양수 범위가 다른 이유 (Signed, Unsigned
 ### 5.6.3 추상 클래스와 인터페이스의 차이
 ### 5.7 다형성
 
-## 6. [6. 협업의 시작 인터페이스 (Java_Interface) _미완성](https://cafecoder.tistory.com/entry/6-%ED%98%91%EC%97%85%EC%9D%98-%EC%8B%9C%EC%9E%91-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-JavaInterface-%EB%AF%B8%EC%99%84%EC%84%B1)
+## 6. [ 협업의 시작 인터페이스 (Java_Interface) _미완성](https://cafecoder.tistory.com/entry/6-%ED%98%91%EC%97%85%EC%9D%98-%EC%8B%9C%EC%9E%91-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-JavaInterface-%EB%AF%B8%EC%99%84%EC%84%B1)
 
 ### 6.1 인터페이스  
 
